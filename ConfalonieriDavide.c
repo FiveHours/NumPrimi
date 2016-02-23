@@ -1,5 +1,5 @@
 /*
- * Davide Confalonieri 4IB 
+ * Davide Confalonieri 4IB da Scampia (NA)
  */
 /*
  * http://www.yolinux.com/TUTORIALS/LinuxTutorialPosixThreads.html
